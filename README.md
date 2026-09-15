@@ -4,6 +4,10 @@ Founder and AI product engineer. Fifteen years in product, eight as a founder. I
 
 ORCID [0009-0006-3889-3563](https://orcid.org/0009-0006-3889-3563) · [LinkedIn](https://www.linkedin.com/in/julian-caraulani/) · [X](https://x.com/juliancaraulani)
 
+## Now
+
+**[LifeFrom](https://www.lifefrom.ai)**: a private longevity membership, by invitation. It begins with a stay at a world-class longevity clinic, where the deepest reading of a body available anywhere is taken in one window. AI assembles the whole record from the clinic's instruments, the member's wearables and prior labs; doctors vetted twice read it together and sign a plan; the record, the protocol and an AI companion in the app follow the member home. Launching now.
+
 ## Research
 
 **[llm-daydreaming](https://github.com/caraulani/llm-daydreaming)** (`daydreamd`): an open implementation and preregistered test of Gwern's LLM daydreaming loop over your own notes. Two sealed runs, ground truth planted by construction, every raw output committed, OpenTimestamps proofs on the preregistrations. Result so far: the selection step holds, recombination is not demonstrated. Runs locally on a Claude subscription, the API, or Ollama. Site: [caraulani.github.io/llm-daydreaming](https://caraulani.github.io/llm-daydreaming/) · DOI [10.5281/zenodo.22746627](https://doi.org/10.5281/zenodo.22746627)
