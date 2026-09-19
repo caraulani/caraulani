@@ -6,7 +6,7 @@ ORCID [0009-0006-3889-3563](https://orcid.org/0009-0006-3889-3563) · [LinkedIn]
 
 ## Now
 
-**[LifeFrom](https://www.lifefrom.ai)**: a premium longevity membership. It begins with a stay at a world-class longevity clinic, where the deepest reading of a body available anywhere is taken in one window. AI assembles the whole record from the clinic's instruments, the member's wearables and prior labs; doctors vetted twice read it together and sign a plan; the record, the protocol and an AI companion in the app follow the member home. Tiers run from the full in-residence programme to a lighter subscription on the same record, doctors and app. Launching now.
+**[LifeFrom](https://www.lifefrom.ai)**: personalised healthcare on top of one health record, assembled by AI from labs, imaging, genome, wearables and robotics, read by doctors who sign the plan. Start with a 100-plus biomarker panel and a protocol computed by fine tuned models. Go further with a week at a world-class clinic, and the record and protocol travel with you. Launching now.
 
 ## Research
 
